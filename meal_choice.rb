@@ -35,7 +35,7 @@ def dinner (dfood = "salmon")
   "You have chosen #{dfood}"
 end 
 
-def snacks (sfood = "cheetos")
+def snacks (sfood = "Cheetos")
   "Any time, is the right time for #{sfood}!"
 end
 
