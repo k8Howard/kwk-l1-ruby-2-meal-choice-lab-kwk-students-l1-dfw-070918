@@ -24,19 +24,19 @@
 
 
 def breakfast (bfood = "frosted flakes")
-  puts "You have chosen #{bfood}"
+  "You have chosen #{bfood}"
 end
 
 def lunch (lfood = "grilled cheese")
-  puts "You have chosen #{lfood}"
+  "You have chosen #{lfood}"
 end
 
 def dinner (dfood = "salmon")
-  puts "You have chosen #{dfood}"
+  "You have chosen #{dfood}"
 end 
 
 def snack (sfood = "cheetos")
-  puts "Any time is the right time for #{sfood}"
+  "Any time is the right time for #{sfood}"
 end
 
 breakfast ("Waffles")
