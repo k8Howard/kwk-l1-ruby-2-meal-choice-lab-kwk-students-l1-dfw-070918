@@ -35,13 +35,17 @@ def dinner (dfood = "salmon")
   puts "You have chosen #{dfood}"
 end 
 
+def snack (sfood = "cheetos")
+  puts "Any time is the right time for #{sfood}"
+
+
 breakfast ("Waffles")
 breakfast
 
 lunch ("grilled cheese")
 lunch
 
-dinner ("salmon")
+dinner ("broccoli")
 dinner
 
 
