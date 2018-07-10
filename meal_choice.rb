@@ -23,13 +23,26 @@
 ## In our snacks method, the default choice is "Cheetos" Calling snacks like this without specifying a choice will return "Any time, is the right time for Cheetos!"
 
 
-def breakfast (argument)
-
+def breakfast (bfood = "frosted flakes")
+  puts "You have chosen #{bfood}"
 end
 
+def lunch (lfood = "grilled cheese")
+  puts "You have chosen #{lfood}"
+end
 
+def dinner (dfood = "salmon")
+  puts "You have chosen #{dfood}"
+end 
 
+breakfast ("Waffles")
+breakfast
 
+lunch ("grilled cheese")
+lunch
+
+dinner ("salmon")
+dinner
 
 
 
