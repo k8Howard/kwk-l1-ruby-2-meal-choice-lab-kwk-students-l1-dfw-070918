@@ -48,6 +48,6 @@ lunch
 dinner ("broccoli")
 dinner
 
-snack ("egg sandwich")
-snack
+snacks ("egg sandwich")
+snacks
 
