@@ -36,7 +36,7 @@ def dinner (dfood = "salmon")
 end 
 
 def snacks (sfood = "cheetos")
-  "Any time is the right time for #{sfood}!"
+  "Any time, is the right time for #{sfood}!"
 end
 
 breakfast ("Waffles")
