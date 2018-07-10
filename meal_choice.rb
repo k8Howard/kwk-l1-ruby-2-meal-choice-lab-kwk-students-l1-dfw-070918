@@ -37,7 +37,7 @@ end
 
 def snack (sfood = "cheetos")
   puts "Any time is the right time for #{sfood}"
-
+end
 
 breakfast ("Waffles")
 breakfast
@@ -48,6 +48,6 @@ lunch
 dinner ("broccoli")
 dinner
 
-
-
+snack ("egg sandwich")
+snack
 
